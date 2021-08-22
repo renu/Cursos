@@ -1,3 +1,3 @@
 # Modificacao
 
-> ## - [ X ]
+> Subtrees e projetos sem git acabam na mesma
